@@ -10,4 +10,3 @@ if (args[2] <= undefined) {
 } else {
  console.log('Argument found');
 }
-
