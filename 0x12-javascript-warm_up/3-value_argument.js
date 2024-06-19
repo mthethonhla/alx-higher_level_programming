@@ -1,4 +1,4 @@
-#!/bin/bin/node
+#!/usr/bin/node
 /* prints the first argument passed */
 
 const args = process.argv;
